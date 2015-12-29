@@ -218,14 +218,8 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/etc/firmware/fingerprints.b02:/system/etc/firmware/fingerprints.b02 \
         vendor/oneplus/oneplus2/proprietary/etc/firmware/fingerprints.b03:/system/etc/firmware/fingerprints.b03 \
         vendor/oneplus/oneplus2/proprietary/etc/firmware/fingerprints.mdt:/system/etc/firmware/fingerprints.mdt \
-        vendor/oneplus/oneplus2/proprietary/bin/location-mq:/system/bin/location-mq \
-        vendor/oneplus/oneplus2/proprietary/etc/permissions/com.qualcomm.location.xml:/system/etc/permissions/com.qualcomm.location.xml \
-        vendor/oneplus/oneplus2/proprietary/lib64/hw/gps.default.so:/system/lib64/hw/gps.default.so \
-        vendor/oneplus/oneplus2/proprietary/lib/hw/gps.default.so:/system/lib/hw/gps.default.so \
-        vendor/oneplus/oneplus2/proprietary/lib64/libgps.utils.so:/system/lib64/libgps.utils.so \
         vendor/oneplus/oneplus2/proprietary/lib64/libloc_core.so:/system/lib64/libloc_core.so \
         vendor/oneplus/oneplus2/proprietary/lib64/libloc_eng.so:/system/lib64/libloc_eng.so \
-        vendor/oneplus/oneplus2/proprietary/lib/libgps.utils.so:/system/lib/libgps.utils.so \
         vendor/oneplus/oneplus2/proprietary/lib/libloc_core.so:/system/lib/libloc_core.so \
         vendor/oneplus/oneplus2/proprietary/lib/libloc_eng.so:/system/lib/libloc_eng.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/hw/flp.default.so:/system/vendor/lib64/hw/flp.default.so \
@@ -235,7 +229,6 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/liblbs_core.so:/system/vendor/lib64/liblbs_core.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libloc_ext.so:/system/vendor/lib64/libloc_ext.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libloc_xtra.so:/system/vendor/lib64/libloc_xtra.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib64/liblocationservice.so:/system/vendor/lib64/liblocationservice.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/liblowi_client.so:/system/vendor/lib64/liblowi_client.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libquipc_os_api.so:/system/vendor/lib64/libquipc_os_api.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libulp2.so:/system/vendor/lib64/libulp2.so \
@@ -248,7 +241,6 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libizat_core.so:/system/vendor/lib/libizat_core.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/liblbs_core.so:/system/vendor/lib/liblbs_core.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libloc_ext.so:/system/vendor/lib/libloc_ext.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib/liblocationservice.so:/system/vendor/lib/liblocationservice.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/liblowi_client.so:/system/vendor/lib/liblowi_client.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libquipc_os_api.so:/system/vendor/lib/libquipc_os_api.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libulp2.so:/system/vendor/lib/libulp2.so \
